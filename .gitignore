@@ -1,1 +1,15 @@
-".env" 
+# Environnement virtuel
+venv/
+.env
+*.env
+
+# Fichiers Python
+__pycache__/
+*.pyc
+
+# Base de données locale
+*.db
+
+# Mac & VSCode
+.DS_Store
+.vscode/
